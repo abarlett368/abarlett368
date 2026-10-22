@@ -1,2 +1,2 @@
-[![GitHub Stats Extended](https://github-stats-extended.vercel.app/api?username=abarlett368&hide_border=true&hide_rank=true&hide=prs,issues,contribs&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=abarlett368&hide_border=true&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats Extended](https://github-stats-extended.vercel.app/api?username=abarlett368&hide_border=true&hide_rank=true&hide=prs,issues,contribs&include_all_commits=true&v=1792698257)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=abarlett368&hide_border=true&layout=compact&v=1792698257)](https://github.com/stats-organization/github-stats-extended)
